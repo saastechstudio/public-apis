@@ -1,0 +1,8586 @@
+[
+ {
+  "apiName": "0x",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://0x.org/api"
+   }
+  ]
+ },
+ {
+  "apiName": "1pt",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/1pt-co/api/blob/main/README.md"
+   }
+  ]
+ },
+ {
+  "apiName": "24-pull-requests",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://24pullrequests.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "49-gallery-historical-data",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.181649.com/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "4chan",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/4chan/4chan-API"
+   }
+  ]
+ },
+ {
+  "apiName": "addressmock",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://addressmock.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "administrative-divisons-db",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/kamikazechaser/administrative-divisions-db"
+   }
+  ]
+ },
+ {
+  "apiName": "adresse-data-gouv-fr",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://adresse.data.gouv.fr"
+   }
+  ]
+ },
+ {
+  "apiName": "ads-b-exchange",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.adsbexchange.com/data/"
+   }
+  ]
+ },
+ {
+  "apiName": "agent-nexus",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://agentnexus.app/llms.txt"
+   }
+  ]
+ },
+ {
+  "apiName": "agify-io",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://agify.io"
+   }
+  ]
+ },
+ {
+  "apiName": "agpc-domain-check",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://guild.tradeuniquecapital.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "ai-dev-jobs",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://aidevboard.com/openapi.yaml"
+   }
+  ]
+ },
+ {
+  "apiName": "ai-economics-tools",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://piszczek.pl/tools/api"
+   }
+  ]
+ },
+ {
+  "apiName": "airportsapi",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://airport-web.appspot.com/api/docs/"
+   }
+  ]
+ },
+ {
+  "apiName": "airtel-ip",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://sys.airtel.lv/ip2country/1.1.1.1/?full=true"
+   }
+  ]
+ },
+ {
+  "apiName": "alpha-mossland",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://alpha.moss.land/developers"
+   }
+  ]
+ },
+ {
+  "apiName": "amiiboapi",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://amiiboapi.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "an-api-of-ice-and-fire",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://anapioficeandfire.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "animechan",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/RocktimSaikia/anime-chan"
+   }
+  ]
+ },
+ {
+  "apiName": "animefacts",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://chandan-02.github.io/anime-facts-rest-api/"
+   }
+  ]
+ },
+ {
+  "apiName": "animenewsnetwork",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.animenewsnetwork.com/encyclopedia/api.php"
+   }
+  ]
+ },
+ {
+  "apiName": "api-gratis",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://apigratis.com.br/"
+   }
+  ]
+ },
+ {
+  "apiName": "api-mint",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api-mint.hoiwan.workers.dev"
+   }
+  ]
+ },
+ {
+  "apiName": "api-setu",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.apisetu.gov.in/"
+   }
+  ]
+ },
+ {
+  "apiName": "apicagent",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.apicagent.com"
+   }
+  ]
+ },
+ {
+  "apiName": "apimetro",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://apimetro.dev/swagger/index.html"
+   }
+  ]
+ },
+ {
+  "apiName": "apis-guru",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://apis.guru/api-doc/"
+   }
+  ]
+ },
+ {
+  "apiName": "apizone",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://apizone.io/api-docs"
+   }
+  ]
+ },
+ {
+  "apiName": "aquanode",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://docs.aquanode.io/docs/api/marketplace"
+   }
+  ]
+ },
+ {
+  "apiName": "arbeitnow",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://documenter.getpostman.com/view/18545278/UVJbJdKh"
+   }
+  ]
+ },
+ {
+  "apiName": "archive-org",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://archive.readme.io/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "arcnautical",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://arcnautical.com/developers/"
+   }
+  ]
+ },
+ {
+  "apiName": "arcsecond-io",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.arcsecond.io/"
+   }
+  ]
+ },
+ {
+  "apiName": "art-institute-of-chicago",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.artic.edu/docs/"
+   }
+  ]
+ },
+ {
+  "apiName": "artificial-intelligence-jobs",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://artificialintelligencejobs.co/developers"
+   }
+  ]
+ },
+ {
+  "apiName": "arxiv",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://arxiv.org/help/api/user-manual"
+   }
+  ]
+ },
+ {
+  "apiName": "astroworld",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.astroworldmc.com"
+   }
+  ]
+ },
+ {
+  "apiName": "auto-body-shop-directory",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://autobodyshopnear.com/developers/body-shop-api"
+   }
+  ]
+ },
+ {
+  "apiName": "autochess-vng",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/didadadida93/autochess-vng-api"
+   }
+  ]
+ },
+ {
+  "apiName": "aviation-safety-data",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://himaxym.com/developers"
+   }
+  ]
+ },
+ {
+  "apiName": "aviationapi",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://docs.aviationapi.com"
+   }
+  ]
+ },
+ {
+  "apiName": "aviationweather",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.aviationweather.gov/dataserver"
+   }
+  ]
+ },
+ {
+  "apiName": "axolotl",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://theaxolotlapi.netlify.app/"
+   }
+  ]
+ },
+ {
+  "apiName": "ayes-and-noes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://ayesandnoes.co.uk/developers"
+   }
+  ]
+ },
+ {
+  "apiName": "aztro",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://aztro.sameerkumar.website/"
+   }
+  ]
+ },
+ {
+  "apiName": "bacon-ipsum",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://baconipsum.com/json-api/"
+   }
+  ]
+ },
+ {
+  "apiName": "baconmockup",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://baconmockup.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "balldontlie",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.balldontlie.io"
+   }
+  ]
+ },
+ {
+  "apiName": "bandsintown",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0"
+   }
+  ]
+ },
+ {
+  "apiName": "bank-negara-malaysia-open-data",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://apikijangportal.bnm.gov.my/"
+   }
+  ]
+ },
+ {
+  "apiName": "bank-of-russia",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.cbr.ru/development/SXML/"
+   }
+  ]
+ },
+ {
+  "apiName": "banking-access-index",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.globalsolo.global/data/banking-access-index"
+   }
+  ]
+ },
+ {
+  "apiName": "barter-vg",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/bartervg/barter.vg/wiki"
+   }
+  ]
+ },
+ {
+  "apiName": "bc-ferries",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.bcferriesapi.ca"
+   }
+  ]
+ },
+ {
+  "apiName": "bdapis",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://bdapis.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "beeceptor",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://beeceptor.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "best-temp-mail",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://best-tempmail.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "bet-better",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://betbetter.world/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "bhagavad-gita-telugu",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://gita-api.vercel.app"
+   }
+  ]
+ },
+ {
+  "apiName": "bible-api",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://bible-api.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "bidledger",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://jaydemks.github.io/bidledger/api.html"
+   }
+  ]
+ },
+ {
+  "apiName": "big-data-explained",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://bigdataexplained.com/data"
+   }
+  ]
+ },
+ {
+  "apiName": "bike-reliability",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://bikereliability.co.uk/developers"
+   }
+  ]
+ },
+ {
+  "apiName": "binlist",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://binlist.net/"
+   }
+  ]
+ },
+ {
+  "apiName": "biriyani-as-a-service",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://biriyani.anoram.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "bitcambio",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://nova.bitcambio.com.br/api/v3/docs#a-public"
+   }
+  ]
+ },
+ {
+  "apiName": "bitcoin-halving",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://why21million.com/halving-api/"
+   }
+  ]
+ },
+ {
+  "apiName": "bitcoincharts",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://bitcoincharts.com/about/exchanges/"
+   }
+  ]
+ },
+ {
+  "apiName": "blazephoenix",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://blazephoenix.xyz/api"
+   }
+  ]
+ },
+ {
+  "apiName": "block-lottos",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://blocklottos.com/openapi.json"
+   }
+  ]
+ },
+ {
+  "apiName": "bluesky",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://docs.bsky.app/"
+   }
+  ]
+ },
+ {
+  "apiName": "bng2latlong",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.getthedata.com/bng2latlong"
+   }
+  ]
+ },
+ {
+  "apiName": "board-game-geek",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://boardgamegeek.com/wiki/page/BGG_XML_API2"
+   }
+  ]
+ },
+ {
+  "apiName": "bob-s-burgers",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://bobs-burgers-api-ui.herokuapp.com"
+   }
+  ]
+ },
+ {
+  "apiName": "bored",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://bored-api.appbrewery.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "botsarchive",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://botsarchive.com/docs.html"
+   }
+  ]
+ },
+ {
+  "apiName": "brazil",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://brasilapi.com.br/"
+   }
+  ]
+ },
+ {
+  "apiName": "brazil-central-bank-open-data",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://dadosabertos.bcb.gov.br/"
+   }
+  ]
+ },
+ {
+  "apiName": "brazil-receita-ws",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.receitaws.com.br/"
+   }
+  ]
+ },
+ {
+  "apiName": "brazilian-chamber-of-deputies-open-data",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://dadosabertos.camara.leg.br/swagger/api.html"
+   }
+  ]
+ },
+ {
+  "apiName": "brazilian-vehicles-and-prices",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://deividfortuna.github.io/fipe/"
+   }
+  ]
+ },
+ {
+  "apiName": "breaking-bad",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://breakingbadapi.com/documentation"
+   }
+  ]
+ },
+ {
+  "apiName": "breaking-bad-quotes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/shevabam/breaking-bad-quotes"
+   }
+  ]
+ },
+ {
+  "apiName": "breed-health-score",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://breedhealthscore.com/developers/"
+   }
+  ]
+ },
+ {
+  "apiName": "brewpage",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://brewpage.app"
+   }
+  ]
+ },
+ {
+  "apiName": "btcglobe",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://btcglobe.live/join#makers"
+   }
+  ]
+ },
+ {
+  "apiName": "btcnode-uk",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://btcnode.uk"
+   }
+  ]
+ },
+ {
+  "apiName": "btu-graph",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://btugraph.com/data/"
+   }
+  ]
+ },
+ {
+  "apiName": "bucketlist-dream-of-the-day",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://bucketlist.nl/samenwerken?lang=en#droom-van-de-dag"
+   }
+  ]
+ },
+ {
+  "apiName": "bugsnax",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.bugsnaxapi.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "bureau-of-labor-statistics",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.bls.gov/developers/"
+   }
+  ]
+ },
+ {
+  "apiName": "caldays",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://caldays.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "call-of-duty-mobile",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://callofdutymobile.vercel.app/"
+   }
+  ]
+ },
+ {
+  "apiName": "callook-info",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://callook.info"
+   }
+  ]
+ },
+ {
+  "apiName": "can-i-enter",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://canienter.com"
+   }
+  ]
+ },
+ {
+  "apiName": "cartes-io",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/M-Media-Group/Cartes.io/wiki/API"
+   }
+  ]
+ },
+ {
+  "apiName": "cat-facts",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://alexwohlbruck.github.io/cat-facts/"
+   }
+  ]
+ },
+ {
+  "apiName": "cat-facts-animals",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://catfact.ninja/"
+   }
+  ]
+ },
+ {
+  "apiName": "catalogopolis",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.catalogopolis.xyz/docs/"
+   }
+  ]
+ },
+ {
+  "apiName": "catboy",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://catboys.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "catch-the-show",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://catchtheshow.herokuapp.com/api/documentation"
+   }
+  ]
+ },
+ {
+  "apiName": "cdnjs",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.cdnjs.com/libraries/jquery"
+   }
+  ]
+ },
+ {
+  "apiName": "census-gov",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.census.gov/data/developers/data-sets.html"
+   }
+  ]
+ },
+ {
+  "apiName": "chainlink",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://chain.link/developer-resources"
+   }
+  ]
+ },
+ {
+  "apiName": "chainpoint",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://tierion.com/chainpoint/"
+   }
+  ]
+ },
+ {
+  "apiName": "changelogs-md",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://changelogs.md"
+   }
+  ]
+ },
+ {
+  "apiName": "chartbytes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://chartbytes.onrender.com"
+   }
+  ]
+ },
+ {
+  "apiName": "cheapshark",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.cheapshark.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "chess-com",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.chess.com/news/view/published-data-api"
+   }
+  ]
+ },
+ {
+  "apiName": "chinese-text-project",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://ctext.org/tools/api"
+   }
+  ]
+ },
+ {
+  "apiName": "chucknorris-io",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.chucknorris.io"
+   }
+  ]
+ },
+ {
+  "apiName": "ciprand",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/polarspetroll/ciprand"
+   }
+  ]
+ },
+ {
+  "apiName": "city-berlin",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://daten.berlin.de/"
+   }
+  ]
+ },
+ {
+  "apiName": "city-bikes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.citybik.es/v2/"
+   }
+  ]
+ },
+ {
+  "apiName": "city-gdansk",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://ckan.multimediagdansk.pl/en"
+   }
+  ]
+ },
+ {
+  "apiName": "city-helsinki",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://hri.fi/en_gb/"
+   }
+  ]
+ },
+ {
+  "apiName": "city-lviv",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://opendata.city-adm.lviv.ua/"
+   }
+  ]
+ },
+ {
+  "apiName": "city-new-york-open-data",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://opendata.cityofnewyork.us/"
+   }
+  ]
+ },
+ {
+  "apiName": "city-toronto-open-data",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://open.toronto.ca/"
+   }
+  ]
+ },
+ {
+  "apiName": "classify",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://classify-web.herokuapp.com/#/api"
+   }
+  ]
+ },
+ {
+  "apiName": "claudecookie",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://claudecookie.com/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "cleanuri",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://cleanuri.com/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "cleartrace",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://cleartracedata.com/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "clinical-trials-directory",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://trials.starfile.org/api"
+   }
+  ]
+ },
+ {
+  "apiName": "cloudflare-trace",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/fawazahmed0/cloudflare-trace-api"
+   }
+  ]
+ },
+ {
+  "apiName": "co2-offset",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://co2offset.io/api.html"
+   }
+  ]
+ },
+ {
+  "apiName": "codecogs",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://editor.codecogs.com/docs/4-LaTeX_rendering.php"
+   }
+  ]
+ },
+ {
+  "apiName": "codex",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/Jaagrav/CodeX"
+   }
+  ]
+ },
+ {
+  "apiName": "coffee",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://coffee.alexflipnote.dev/"
+   }
+  ]
+ },
+ {
+  "apiName": "coincap",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://docs.coincap.io/"
+   }
+  ]
+ },
+ {
+  "apiName": "coinlobster",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://coinlobster.com/developers"
+   }
+  ]
+ },
+ {
+  "apiName": "coinlore",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.coinlore.com/cryptocurrency-data-api"
+   }
+  ]
+ },
+ {
+  "apiName": "coinpaprika",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.coinpaprika.com"
+   }
+  ]
+ },
+ {
+  "apiName": "coinstats",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://documenter.getpostman.com/view/5734027/RzZ6Hzr3?version=latest"
+   }
+  ]
+ },
+ {
+  "apiName": "collegescorecard-ed-gov",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://collegescorecard.ed.gov/data/"
+   }
+  ]
+ },
+ {
+  "apiName": "colorado-information-marketplace",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.colorado.gov/"
+   }
+  ]
+ },
+ {
+  "apiName": "comic-vine",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://comicvine.gamespot.com/api/documentation"
+   }
+  ]
+ },
+ {
+  "apiName": "community-transit",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints"
+   }
+  ]
+ },
+ {
+  "apiName": "coronavirus",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://pipedream.com/@pravin/http-api-for-latest-wuhan-coronavirus-data-2019-ncov-p_G6CLVM/readme"
+   }
+  ]
+ },
+ {
+  "apiName": "coronavirus-in-the-uk",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://coronavirus.data.gov.uk/details/developers-guide"
+   }
+  ]
+ },
+ {
+  "apiName": "corporate-buzz-words",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/sameerkumar18/corporate-bs-generator-api"
+   }
+  ]
+ },
+ {
+  "apiName": "corpstacking",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.corpstacking.com/feed.json"
+   }
+  ]
+ },
+ {
+  "apiName": "cors-proxy",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/burhanuday/cors-proxy"
+   }
+  ]
+ },
+ {
+  "apiName": "cosmyday-astrology",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://cosmyday.com/api-docs"
+   }
+  ]
+ },
+ {
+  "apiName": "countapi",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://countapi.xyz"
+   }
+  ]
+ },
+ {
+  "apiName": "covid-19",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://covid19api.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "covid-19-datenhub",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://npgeo-corona-npgeo-de.hub.arcgis.com"
+   }
+  ]
+ },
+ {
+  "apiName": "covid-19-government-response",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://covidtracker.bsg.ox.ac.uk"
+   }
+  ]
+ },
+ {
+  "apiName": "covid-19-health",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/M-Media-Group/Covid-19-API"
+   }
+  ]
+ },
+ {
+  "apiName": "covid-19-india",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.covid19india.org/"
+   }
+  ]
+ },
+ {
+  "apiName": "covid-19-jhu-csse",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://nuttaphat.com/covid19-api/"
+   }
+  ]
+ },
+ {
+  "apiName": "covid-19-live-data",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/mathdroid/covid-19-api"
+   }
+  ]
+ },
+ {
+  "apiName": "covid-19-philippines",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/Simperfy/Covid-19-API-Philippines-DOH"
+   }
+  ]
+ },
+ {
+  "apiName": "covid-19-tracker-canada",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.covid19tracker.ca/docs/1.0/overview"
+   }
+  ]
+ },
+ {
+  "apiName": "covid-19-tracker-sri-lanka",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.hpb.health.gov.lk/en/api-documentation"
+   }
+  ]
+ },
+ {
+  "apiName": "covid-id",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.covid19.go.id/public/api/prov.json"
+   }
+  ]
+ },
+ {
+  "apiName": "covid-tracking-project",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://covidtracking.com/data/api/version-2"
+   }
+  ]
+ },
+ {
+  "apiName": "coworkingview",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://coworkingview.com/openapi.json"
+   }
+  ]
+ },
+ {
+  "apiName": "crafatar",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://crafatar.com"
+   }
+  ]
+ },
+ {
+  "apiName": "crates-io",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://crates.io/data-access"
+   }
+  ]
+ },
+ {
+  "apiName": "cross-universe",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://crossuniverse.psychpsyo.com/apiDocs.html"
+   }
+  ]
+ },
+ {
+  "apiName": "crossref-metadata-search",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/CrossRef/rest-api-doc"
+   }
+  ]
+ },
+ {
+  "apiName": "cryptapi",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://docs.cryptapi.io/"
+   }
+  ]
+ },
+ {
+  "apiName": "cryptingup",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.cryptingup.com/apidoc/#introduction"
+   }
+  ]
+ },
+ {
+  "apiName": "cryptocompare",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.cryptocompare.com/api#"
+   }
+  ]
+ },
+ {
+  "apiName": "cryptonator",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.cryptonator.com/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "csr-plus",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://csr.plus/docs/api"
+   }
+  ]
+ },
+ {
+  "apiName": "curatorsearch",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://curatorsearch.com/developers"
+   }
+  ]
+ },
+ {
+  "apiName": "currency-api",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/fawazahmed0/currency-api#readme"
+   }
+  ]
+ },
+ {
+  "apiName": "cuttingtoolsai",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://cuttingtoolsai.eu/api"
+   }
+  ]
+ },
+ {
+  "apiName": "cyclecalcs",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.cyclecalcs.com/api.html"
+   }
+  ]
+ },
+ {
+  "apiName": "czech-national-bank",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml"
+   }
+  ]
+ },
+ {
+  "apiName": "daily-food-recalls",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://dailyfoodrecalls.com/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "daleelak",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://getdaleelak.com/en/api"
+   }
+  ]
+ },
+ {
+  "apiName": "danish-data-service-energi",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.energidataservice.dk/"
+   }
+  ]
+ },
+ {
+  "apiName": "data-usa",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://datausa.io/about/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "datacite",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://support.datacite.org/docs/rest-api"
+   }
+  ]
+ },
+ {
+  "apiName": "datacube-ai",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.datacubeai.space/en/tools/ai-news-api"
+   }
+  ]
+ },
+ {
+  "apiName": "dataflow-kit-covid-19",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://covid-19.dataflowkit.com"
+   }
+  ]
+ },
+ {
+  "apiName": "datamuse",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.datamuse.com/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "dead-drop",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.dead-drop.xyz/api/v1/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "deepcode",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.deepcode.ai"
+   }
+  ]
+ },
+ {
+  "apiName": "deepdna",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://deepdna.ai/docs/"
+   }
+  ]
+ },
+ {
+  "apiName": "defillama",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://defillama.com/docs/api"
+   }
+  ]
+ },
+ {
+  "apiName": "dehash-lt",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/Dehash-lt/api"
+   }
+  ]
+ },
+ {
+  "apiName": "devitjobs-uk",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://devitjobs.uk/job_feed.xml"
+   }
+  ]
+ },
+ {
+  "apiName": "devlifecheck",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://devlifecheck.com/developers"
+   }
+  ]
+ },
+ {
+  "apiName": "dicebear-avatars",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://avatars.dicebear.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "dictum",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/fisenkodv/dictum"
+   }
+  ]
+ },
+ {
+  "apiName": "digimon-information",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://digimon-api.vercel.app/"
+   }
+  ]
+ },
+ {
+  "apiName": "digimon-tcg",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://documenter.getpostman.com/view/14059948/TzecB4fH"
+   }
+  ]
+ },
+ {
+  "apiName": "digitalocean-status",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://status.digitalocean.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "digmyname",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://digmyname.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "discgolf",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://discgolfapi.com/docs/"
+   }
+  ]
+ },
+ {
+  "apiName": "disify",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.disify.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "disney",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://disneyapi.dev"
+   }
+  ]
+ },
+ {
+  "apiName": "docstruct",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://docstruct.pages.dev"
+   }
+  ]
+ },
+ {
+  "apiName": "dog-facts",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://dukengn.github.io/Dog-facts-API/"
+   }
+  ]
+ },
+ {
+  "apiName": "dog-facts-animals",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://kinduff.github.io/dog-api/"
+   }
+  ]
+ },
+ {
+  "apiName": "doge-meme",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.doge-meme.lol/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "dogs",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://dog.ceo/dog-api/"
+   }
+  ]
+ },
+ {
+  "apiName": "domaindb-info",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.domainsdb.info/"
+   }
+  ]
+ },
+ {
+  "apiName": "domainsdb-info",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://domainsdb.info/"
+   }
+  ]
+ },
+ {
+  "apiName": "dotasense-timings",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://dotasense.com/cheat-sheet#timing-api"
+   }
+  ]
+ },
+ {
+  "apiName": "dotsweep",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://dotsweep.com/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "downstatus",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://isitdownstatus.com"
+   }
+  ]
+ },
+ {
+  "apiName": "dreamthreads",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://mydreamthreads.xyz/dream-interpretation-api"
+   }
+  ]
+ },
+ {
+  "apiName": "drivet-url-shortener",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://wiki.drivet.xyz/en/url-shortener/add-links"
+   }
+  ]
+ },
+ {
+  "apiName": "dropmail",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://dropmail.me/api/#live-demo"
+   }
+  ]
+ },
+ {
+  "apiName": "drupal-org",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.drupal.org/drupalorg/docs/api"
+   }
+  ]
+ },
+ {
+  "apiName": "ducks-unlimited",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://gis.ducks.org/datasets/du-university-chapters/api"
+   }
+  ]
+ },
+ {
+  "apiName": "dummyimage",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://dummyimage.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "dummyjson",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://dummyjson.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "dune",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/ywalia01/dune-api"
+   }
+  ]
+ },
+ {
+  "apiName": "dungeons-and-dragons-alternate",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://open5e.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "econdb",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.econdb.com/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "economia-awesome",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://docs.awesomeapi.com.br/api-de-moedas"
+   }
+  ]
+ },
+ {
+  "apiName": "editalmd",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://editalmd.com/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "email-spam-tester",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://email-spam-tester.com/api-docs/"
+   }
+  ]
+ },
+ {
+  "apiName": "email-validator-by-lifestep",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://email.lifestep.io"
+   }
+  ]
+ },
+ {
+  "apiName": "emailrep",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://docs.emailrep.io/"
+   }
+  ]
+ },
+ {
+  "apiName": "emojihub",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/cheatsnake/emojihub"
+   }
+  ]
+ },
+ {
+  "apiName": "english-random-words",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://random-words-api.vercel.app/word"
+   }
+  ]
+ },
+ {
+  "apiName": "eosl",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://eosl.ai/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "epa",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.epa.gov/developers/data-data-products#apis"
+   }
+  ]
+ },
+ {
+  "apiName": "escape",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/polarspetroll/EscapeAPI"
+   }
+  ]
+ },
+ {
+  "apiName": "estimatetax",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://estimatetax.net/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "eu-vat-rates-by-commodity-code",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/humora2504/eu-vat-by-commodity-code"
+   }
+  ]
+ },
+ {
+  "apiName": "europe-pmc",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://europepmc.org/RestfulWebService"
+   }
+  ]
+ },
+ {
+  "apiName": "eva",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://eva.pingutil.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "evil-insult-generator",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://evilinsult.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "exactcup",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://exactcup.github.io/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "exchangerate-dev",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://exchangerate.dev/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "exchangerate-host",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://exchangerate.host?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers"
+   }
+  ]
+ },
+ {
+  "apiName": "excuser",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://excuser.herokuapp.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "extendsclass-json-storage",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://extendsclass.com/json-storage.html"
+   }
+  ]
+ },
+ {
+  "apiName": "faa-n-number-registry",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://n-number.starfile.org/api"
+   }
+  ]
+ },
+ {
+  "apiName": "face-shape-guide-lookup",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://myfaceshapechart.com/openapi.json"
+   }
+  ]
+ },
+ {
+  "apiName": "fair-draw",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://bettip.co.za/fair-draw/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "fakerapi",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://fakerapi.it/en"
+   }
+  ]
+ },
+ {
+  "apiName": "fakestoreapi",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://fakestoreapi.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "fanline-wire",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://fanlinewire.com/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "fbi-wanted",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.fbi.gov/wanted/api"
+   }
+  ]
+ },
+ {
+  "apiName": "fed-treasury",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://fiscaldata.treasury.gov/api-documentation/"
+   }
+  ]
+ },
+ {
+  "apiName": "federal-register",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.federalregister.gov/reader-aids/developer-resources/rest-api"
+   }
+  ]
+ },
+ {
+  "apiName": "ffxiv-collect",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://ffxivcollect.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "fifa-ultimate-team",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.easports.com/fifa/ultimate-team/api/fut/item"
+   }
+  ]
+ },
+ {
+  "apiName": "file-io",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.file.io"
+   }
+  ]
+ },
+ {
+  "apiName": "fileup",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/RealSinaSnp/FileUp"
+   }
+  ]
+ },
+ {
+  "apiName": "filterlists",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://filterlists.com"
+   }
+  ]
+ },
+ {
+  "apiName": "final-fantasy-xiv",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://xivapi.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "final-space",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://finalspaceapi.com/docs/"
+   }
+  ]
+ },
+ {
+  "apiName": "finance-clearly-tax-rates",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://financeclearly.com/tax-rates-api/"
+   }
+  ]
+ },
+ {
+  "apiName": "findsaunaplunge",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://findsaunaplunge.com/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "fishwatch",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.fishwatch.gov/developers"
+   }
+  ]
+ },
+ {
+  "apiName": "flaky",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://flakyapi.dev"
+   }
+  ]
+ },
+ {
+  "apiName": "florida-man",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/juliayxhuang/florida-man-api#readme"
+   }
+  ]
+ },
+ {
+  "apiName": "foodish",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/surhud004/Foodish#readme"
+   }
+  ]
+ },
+ {
+  "apiName": "football-soccer-videos",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.scorebat.com/video-api/"
+   }
+  ]
+ },
+ {
+  "apiName": "football-standings",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/azharimm/football-standings-api"
+   }
+  ]
+ },
+ {
+  "apiName": "forza",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://docs.forza-api.tk"
+   }
+  ]
+ },
+ {
+  "apiName": "frankfurter",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.frankfurter.app/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "fraudcoins",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://fraudcoins.com/data/"
+   }
+  ]
+ },
+ {
+  "apiName": "free-dictionary",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://dictionaryapi.dev/"
+   }
+  ]
+ },
+ {
+  "apiName": "free-url-shortener",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://ulvis.net/developer.html"
+   }
+  ]
+ },
+ {
+  "apiName": "freeforexapi",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://freeforexapi.com/Home/Api"
+   }
+  ]
+ },
+ {
+  "apiName": "freehire",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://freehire.dev/docs/api"
+   }
+  ]
+ },
+ {
+  "apiName": "freetogame",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.freetogame.com/api-doc"
+   }
+  ]
+ },
+ {
+  "apiName": "french-address-search",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://geo.api.gouv.fr/adresse"
+   }
+  ]
+ },
+ {
+  "apiName": "fruityvice",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.fruityvice.com"
+   }
+  ]
+ },
+ {
+  "apiName": "fuck-off-as-a-service",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.foaas.com"
+   }
+  ]
+ },
+ {
+  "apiName": "fulusly",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://fulusly.soft9.us/developers"
+   }
+  ]
+ },
+ {
+  "apiName": "fun-fact",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.aakhilv.me"
+   }
+  ]
+ },
+ {
+  "apiName": "fun-facts",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://asli-fun-fact-api.herokuapp.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "funtranslations",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.funtranslations.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "futures-clock",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://futuresclock.com/en/data-methodology/#open-data"
+   }
+  ]
+ },
+ {
+  "apiName": "fxpeek",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://fxpeek.com/en/api"
+   }
+  ]
+ },
+ {
+  "apiName": "gaana",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/cyberboysumanjay/GaanaAPI"
+   }
+  ]
+ },
+ {
+  "apiName": "game-of-thrones-quotes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://gameofthronesquotes.xyz/"
+   }
+  ]
+ },
+ {
+  "apiName": "gamerpower",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.gamerpower.com/api-read"
+   }
+  ]
+ },
+ {
+  "apiName": "gbif",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.gbif.org/developer/summary"
+   }
+  ]
+ },
+ {
+  "apiName": "gdbrowser",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://gdbrowser.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "geek-jokes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/sameerkumar18/geek-joke-api"
+   }
+  ]
+ },
+ {
+  "apiName": "gemini",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://docs.gemini.com/rest-api/"
+   }
+  ]
+ },
+ {
+  "apiName": "genderize-io",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://genderize.io"
+   }
+  ]
+ },
+ {
+  "apiName": "genrenator",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://binaryjazz.us/genrenator-api/"
+   }
+  ]
+ },
+ {
+  "apiName": "genshin-impact",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://genshin.dev"
+   }
+  ]
+ },
+ {
+  "apiName": "geoapi",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.gouv.fr/api/geoapi.html"
+   }
+  ]
+ },
+ {
+  "apiName": "geocode-xyz",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://geocode.xyz/api"
+   }
+  ]
+ },
+ {
+  "apiName": "geodata-gov-gr",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://geodata.gov.gr/en/"
+   }
+  ]
+ },
+ {
+  "apiName": "geographql",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://geographql.netlify.app"
+   }
+  ]
+ },
+ {
+  "apiName": "geojs",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.geojs.io/"
+   }
+  ]
+ },
+ {
+  "apiName": "geokeo",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://geokeo.com"
+   }
+  ]
+ },
+ {
+  "apiName": "geoplugin",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.geoplugin.com"
+   }
+  ]
+ },
+ {
+  "apiName": "get-started-with-web3",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/beihaili/Get-Started-with-Web3/blob/main/docs/api.md"
+   }
+  ]
+ },
+ {
+  "apiName": "git-io",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.blog/2011-11-10-git-io-github-url-shortener/"
+   }
+  ]
+ },
+ {
+  "apiName": "github-contribution-chart-generator",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github-contributions.vercel.app"
+   }
+  ]
+ },
+ {
+  "apiName": "github-readme-stats",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/anuraghazra/github-readme-stats"
+   }
+  ]
+ },
+ {
+  "apiName": "githubtrends",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://githubtrends.app/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "go-module-proxy",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://go.dev/ref/mod#goproxy-protocol"
+   }
+  ]
+ },
+ {
+  "apiName": "goldprice-dev",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://goldprice.dev/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "gotiny",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/robvanbakel/gotiny-api"
+   }
+  ]
+ },
+ {
+  "apiName": "graph-countries",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/lennertVanSever/graphcountries"
+   }
+  ]
+ },
+ {
+  "apiName": "graphql-jobs",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://graphql.jobs/docs/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "graphql-pokemon",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/favware/graphql-pokemon"
+   }
+  ]
+ },
+ {
+  "apiName": "graphs-for-coronavirus",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://corona.dnsforfamily.com/api.txt"
+   }
+  ]
+ },
+ {
+  "apiName": "greenlit-books",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://greenlitbooks.com/developers"
+   }
+  ]
+ },
+ {
+  "apiName": "gtfs-scorecard",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/ChelseaKR/gtfs-scorecard/blob/main/docs/api.md"
+   }
+  ]
+ },
+ {
+  "apiName": "guerrilla-mail",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.guerrillamail.com/GuerrillaMailAPI.html"
+   }
+  ]
+ },
+ {
+  "apiName": "gurbaninow",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/GurbaniNow/api"
+   }
+  ]
+ },
+ {
+  "apiName": "gutendex",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://gutendex.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "gw2spidy",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/rubensayshi/gw2spidy/wiki"
+   }
+  ]
+ },
+ {
+  "apiName": "gzw-data",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://gzw-data.vercel.app/docs/"
+   }
+  ]
+ },
+ {
+  "apiName": "hackernews",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/HackerNews/API"
+   }
+  ]
+ },
+ {
+  "apiName": "hackmyip",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://hackmyip.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "hail-history",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://hail-history-noaa.netlify.app/api-docs.html"
+   }
+  ]
+ },
+ {
+  "apiName": "harry-potter-charactes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://hp-api.herokuapp.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "hashable",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://hashable.space/pages/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "hashnode",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://hashnode.com"
+   }
+  ]
+ },
+ {
+  "apiName": "healthcare-gov",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.healthcare.gov/developers/"
+   }
+  ]
+ },
+ {
+  "apiName": "helious",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://helious.io/developers/"
+   }
+  ]
+ },
+ {
+  "apiName": "helium",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://docs.helium.com/api/blockchain/introduction/"
+   }
+  ]
+ },
+ {
+  "apiName": "helium-finance",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://heliumtrades.com/mcp-page/"
+   }
+  ]
+ },
+ {
+  "apiName": "hellosalut",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://fourtonfish.com/project/hellosalut-api/"
+   }
+  ]
+ },
+ {
+  "apiName": "hex",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/hexpm/specifications"
+   }
+  ]
+ },
+ {
+  "apiName": "hipsum",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://hipsum.co"
+   }
+  ]
+ },
+ {
+  "apiName": "homebrew-formulae",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://formulae.brew.sh/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "hong-kong-geodata-store",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://geodata.gov.hk/gs/"
+   }
+  ]
+ },
+ {
+  "apiName": "hong-kong-obervatory",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.hko.gov.hk/en/abouthko/opendata_intro.htm"
+   }
+  ]
+ },
+ {
+  "apiName": "host-t-com",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://host-t.com"
+   }
+  ]
+ },
+ {
+  "apiName": "hostdealradar",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://hostdealradar.com/ai/"
+   }
+  ]
+ },
+ {
+  "apiName": "hostdefi",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://hostdefi.com/docs/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "housingfeed",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://housingfeed.com/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "http-cat",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://http.cat/"
+   }
+  ]
+ },
+ {
+  "apiName": "http-dog",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://http.dog/"
+   }
+  ]
+ },
+ {
+  "apiName": "http2-pro",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://http2.pro/doc/api"
+   }
+  ]
+ },
+ {
+  "apiName": "httpbin",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://httpbin.org/"
+   }
+  ]
+ },
+ {
+  "apiName": "httpbin-cloudflare",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://cloudflare-quic.com/b/"
+   }
+  ]
+ },
+ {
+  "apiName": "humanitarian-data-exchange",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.humdata.org/"
+   }
+  ]
+ },
+ {
+  "apiName": "hyrule-compendium",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/gadhagod/Hyrule-Compendium-API"
+   }
+  ]
+ },
+ {
+  "apiName": "hytale",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://hytale-api.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "i6eal-open-ai-data",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://i6eal.de/en/tools/data/"
+   }
+  ]
+ },
+ {
+  "apiName": "iban-analyzer",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://iban-analyzer.com/free-iban-api"
+   }
+  ]
+ },
+ {
+  "apiName": "ibge",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://servicodados.ibge.gov.br/api/docs/"
+   }
+  ]
+ },
+ {
+  "apiName": "icanhazdadjoke",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://icanhazdadjoke.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "icanhazepoch",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://icanhazepoch.com"
+   }
+  ]
+ },
+ {
+  "apiName": "icanhazip",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://major.io/icanhazip-com-faq/"
+   }
+  ]
+ },
+ {
+  "apiName": "icon-horse",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://icon.horse"
+   }
+  ]
+ },
+ {
+  "apiName": "iconify",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://iconify.design/docs/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "icons8",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://img.icons8.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "idigbio",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/idigbio/idigbio-search-api/wiki"
+   }
+  ]
+ },
+ {
+  "apiName": "ifttt",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://platform.ifttt.com/docs/connect_api"
+   }
+  ]
+ },
+ {
+  "apiName": "image-charts",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://documentation.image-charts.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "imdbot",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/SpEcHiDe/IMDbOT"
+   }
+  ]
+ },
+ {
+  "apiName": "imgflip",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://imgflip.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "imsea",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://imsea.herokuapp.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "indian-mandi-prices",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://mandi-api.vercel.app/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "indian-mutual-fund",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.mfapi.in/"
+   }
+  ]
+ },
+ {
+  "apiName": "indian-pincode",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://indianpincode.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "indonesia-dictionary",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://new-kbbi-api.herokuapp.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "inshorts-news",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/cyberboysumanjay/Inshorts-News-API"
+   }
+  ]
+ },
+ {
+  "apiName": "inspiration",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://inspiration.goprogram.ai/docs/"
+   }
+  ]
+ },
+ {
+  "apiName": "inspirehep-net",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/inspirehep/rest-api-doc"
+   }
+  ]
+ },
+ {
+  "apiName": "interpol-red-notices",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://interpol.api.bund.dev/"
+   }
+  ]
+ },
+ {
+  "apiName": "ip-2-country",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://ip2country.info"
+   }
+  ]
+ },
+ {
+  "apiName": "ip-address-details",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://ipinfo.io/"
+   }
+  ]
+ },
+ {
+  "apiName": "ip-fast-com",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://ip-fast.com/docs/"
+   }
+  ]
+ },
+ {
+  "apiName": "ip-vigilante",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.ipvigilante.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "ip99",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://ip99.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "ipapi-co",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://ipapi.co/api/#introduction"
+   }
+  ]
+ },
+ {
+  "apiName": "ipgeo",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.techniknews.net/ipgeo/"
+   }
+  ]
+ },
+ {
+  "apiName": "ipgeolocationapi",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://ipgeolocationapi.io/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "ipguardian",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://ipguardian.net/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "ipify",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.ipify.org/"
+   }
+  ]
+ },
+ {
+  "apiName": "ipinfo",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://ipinfo.io/developers"
+   }
+  ]
+ },
+ {
+  "apiName": "iplogs",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://iplogs.com/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "ipma",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.ipma.pt/open-data/"
+   }
+  ]
+ },
+ {
+  "apiName": "ipwhois",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://ipwhois.io/documentation"
+   }
+  ]
+ },
+ {
+  "apiName": "ipwhois-net-blacklist",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://ipwhois.net/blacklist/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "is-this-site-down",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://downforjustmeoreveryone.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "iseven-humor",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://isevenapi.xyz/"
+   }
+  ]
+ },
+ {
+  "apiName": "isitdownstatus",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://isitdownstatus.com"
+   }
+  ]
+ },
+ {
+  "apiName": "isro",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://isro.vercel.app"
+   }
+  ]
+ },
+ {
+  "apiName": "istanbul-ibb-open-data",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.ibb.gov.tr"
+   }
+  ]
+ },
+ {
+  "apiName": "itis",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.itis.gov/ws_description.html"
+   }
+  ]
+ },
+ {
+  "apiName": "itsthisforthat",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://itsthisforthat.com/api.php"
+   }
+  ]
+ },
+ {
+  "apiName": "itunes-search",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/"
+   }
+  ]
+ },
+ {
+  "apiName": "jikan",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://jikan.moe"
+   }
+  ]
+ },
+ {
+  "apiName": "jiosaavn",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/cyberboysumanjay/JioSaavnAPI"
+   }
+  ]
+ },
+ {
+  "apiName": "jokeapi",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://v2.jokeapi.dev/"
+   }
+  ]
+ },
+ {
+  "apiName": "jokeapi-games-and-comics",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://sv443.net/jokeapi/v2/"
+   }
+  ]
+ },
+ {
+  "apiName": "jsdelivr",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/jsdelivr/data.jsdelivr.com"
+   }
+  ]
+ },
+ {
+  "apiName": "json-2-jsonp",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://json2jsonp.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "jsonplaceholder",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://jsonplaceholder.typicode.com"
+   }
+  ]
+ },
+ {
+  "apiName": "justmeme-wtf",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://justmeme.wtf/api-docs"
+   }
+  ]
+ },
+ {
+  "apiName": "kanari",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://kanari.io/en/api"
+   }
+  ]
+ },
+ {
+  "apiName": "kanye-rest",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://kanye.rest"
+   }
+  ]
+ },
+ {
+  "apiName": "kavel",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://kavel.readthedocs.io/"
+   }
+  ]
+ },
+ {
+  "apiName": "kdp-intelligence",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://kdp-intelligence-api.vercel.app/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "keyvalue",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://keyvalue.immanuel.co/"
+   }
+  ]
+ },
+ {
+  "apiName": "kickbox",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://open.kickbox.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "kimiquotes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://kimiquotes.herokuapp.com/doc"
+   }
+  ]
+ },
+ {
+  "apiName": "kmalservico-gold-price-dataset",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.kmalservico.com/data"
+   }
+  ]
+ },
+ {
+  "apiName": "kontests",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://kontests.net/api"
+   }
+  ]
+ },
+ {
+  "apiName": "kontragentpro",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://kontragentpro.ru/api/v2/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "kroki",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://kroki.io"
+   }
+  ]
+ },
+ {
+  "apiName": "l2-calendar",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://l2calendar.com/api/servers"
+   }
+  ]
+ },
+ {
+  "apiName": "lanyard",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/Phineas/lanyard"
+   }
+  ]
+ },
+ {
+  "apiName": "lapis",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://cov-spectrum.ethz.ch/public"
+   }
+  ]
+ },
+ {
+  "apiName": "latlng",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.latlng.work/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "launch-library-2",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://thespacedevs.com/llapi"
+   }
+  ]
+ },
+ {
+  "apiName": "legal-sandbox-georgia",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://legal.ge/api/openapi.json"
+   }
+  ]
+ },
+ {
+  "apiName": "libretranslate",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://libretranslate.com/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "license-api",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/cmccandless/license-api/blob/master/README.md"
+   }
+  ]
+ },
+ {
+  "apiName": "liquilens",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://liquilens.in/developers/"
+   }
+  ]
+ },
+ {
+  "apiName": "litport-free-proxy",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://litport.net/docs/free-proxy-api"
+   }
+  ]
+ },
+ {
+  "apiName": "livetrafficcam",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://bzsasson.github.io/traffic-camera-sources/api.html"
+   }
+  ]
+ },
+ {
+  "apiName": "localbitcoins",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://localbitcoins.com/api-docs/"
+   }
+  ]
+ },
+ {
+  "apiName": "localgov-jp",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://localgov.jp/"
+   }
+  ]
+ },
+ {
+  "apiName": "longevity-world-cup",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://longevityworldcup.com/api/data/athletes"
+   }
+  ]
+ },
+ {
+  "apiName": "lordicon",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://lordicon.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "lorem-picsum",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://picsum.photos/"
+   }
+  ]
+ },
+ {
+  "apiName": "lottolens-ph",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://remo65588-boop.github.io/lottolens-ph-public-data/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "lowy-asia-power-index",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/0x0is1/lowy-index-api-docs"
+   }
+  ]
+ },
+ {
+  "apiName": "lua-decompiler",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://lua-decompiler.ferib.dev/"
+   }
+  ]
+ },
+ {
+  "apiName": "luchtmeetnet",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api-docs.luchtmeetnet.nl/"
+   }
+  ]
+ },
+ {
+  "apiName": "lucifer-quotes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/shadowoff09/lucifer-quotes"
+   }
+  ]
+ },
+ {
+  "apiName": "lyrics-ovh",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://lyricsovh.docs.apiary.io"
+   }
+  ]
+ },
+ {
+  "apiName": "mail-gw",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://docs.mail.gw"
+   }
+  ]
+ },
+ {
+  "apiName": "mail-tm",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://docs.mail.tm"
+   }
+  ]
+ },
+ {
+  "apiName": "mailcheck-ai",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.mailcheck.ai/#documentation"
+   }
+  ]
+ },
+ {
+  "apiName": "marketplace-fee-data",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.sellerscalc.com/data"
+   }
+  ]
+ },
+ {
+  "apiName": "mcu-countdown",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/DiljotSG/MCU-Countdown"
+   }
+  ]
+ },
+ {
+  "apiName": "medlineplus-genetics",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://medlineplus.gov/about/developers/geneticsdatafilesapi/"
+   }
+  ]
+ },
+ {
+  "apiName": "meltema",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://meltema.com/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "meme-maker",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://mememaker.github.io/API/"
+   }
+  ]
+ },
+ {
+  "apiName": "memesio",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://memesio.com/developers/api"
+   }
+  ]
+ },
+ {
+  "apiName": "mempool",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://mempool.space/api"
+   }
+  ]
+ },
+ {
+  "apiName": "meowfacts",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/wh-iterabb-it/meowfacts"
+   }
+  ]
+ },
+ {
+  "apiName": "mercadobitcoin",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.mercadobitcoin.com.br/api-doc/"
+   }
+  ]
+ },
+ {
+  "apiName": "messari",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://messari.io/api"
+   }
+  ]
+ },
+ {
+  "apiName": "metabase",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.metabase.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "metropolitan-museum-of-art",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://metmuseum.github.io/"
+   }
+  ]
+ },
+ {
+  "apiName": "mexico",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/IcaliaLabs/sepomex"
+   }
+  ]
+ },
+ {
+  "apiName": "microenv",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://microenv.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "microlink-io",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://microlink.io"
+   }
+  ]
+ },
+ {
+  "apiName": "microsoft-security-response-center-msrc",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://msrc.microsoft.com/report/developer"
+   }
+  ]
+ },
+ {
+  "apiName": "minecraft-server-status",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.mcsrvstat.us"
+   }
+  ]
+ },
+ {
+  "apiName": "mmo-games",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.mmobomb.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "mocky",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://designer.mocky.io/"
+   }
+  ]
+ },
+ {
+  "apiName": "modelfax",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://bytebrujo.github.io/modelfax/"
+   }
+  ]
+ },
+ {
+  "apiName": "modelpartfinder-error-codes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://modelpartfinder.com/docs/api"
+   }
+  ]
+ },
+ {
+  "apiName": "monerometrics",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://monerometrics.net"
+   }
+  ]
+ },
+ {
+  "apiName": "monster-hunter-world",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://docs.mhw-db.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "moradas",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://moradas.dev/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "mostexpensivewatches",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://mostexpensivewatches.net/api"
+   }
+  ]
+ },
+ {
+  "apiName": "motivational-quotes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://nodejs-quoteapp.herokuapp.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "movebank",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/movebank/movebank-api-doc"
+   }
+  ]
+ },
+ {
+  "apiName": "movie-quote",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/F4R4N/movie-quote/"
+   }
+  ]
+ },
+ {
+  "apiName": "mozilla-http-scanner",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md"
+   }
+  ]
+ },
+ {
+  "apiName": "mozilla-tls-scanner",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/mozilla/tls-observatory#api-endpoints"
+   }
+  ]
+ },
+ {
+  "apiName": "msgboard",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://msgboard.dev"
+   }
+  ]
+ },
+ {
+  "apiName": "musicbrainz",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2"
+   }
+  ]
+ },
+ {
+  "apiName": "my-ip",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.myip.com/api-docs/"
+   }
+  ]
+ },
+ {
+  "apiName": "mygene-info",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://docs.mygene.info/"
+   }
+  ]
+ },
+ {
+  "apiName": "myiprightnow",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://myiprightnow.com"
+   }
+  ]
+ },
+ {
+  "apiName": "myvaccination",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://documenter.getpostman.com/view/16605343/Tzm8GG7u"
+   }
+  ]
+ },
+ {
+  "apiName": "nager-date",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://date.nager.at"
+   }
+  ]
+ },
+ {
+  "apiName": "namedays-calendar",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://nameday.abalin.net"
+   }
+  ]
+ },
+ {
+  "apiName": "namomemes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/theIYD/NaMoMemes"
+   }
+  ]
+ },
+ {
+  "apiName": "nasa",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.nasa.gov"
+   }
+  ]
+ },
+ {
+  "apiName": "nasa-power",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://power.larc.nasa.gov/docs/"
+   }
+  ]
+ },
+ {
+  "apiName": "national-grid-eso",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.nationalgrideso.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "national-vulnerability-database",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog"
+   }
+  ]
+ },
+ {
+  "apiName": "nationalize-io",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://nationalize.io"
+   }
+  ]
+ },
+ {
+  "apiName": "nba-stats",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://any-api.com/nba_com/nba_com/docs/API_Description"
+   }
+  ]
+ },
+ {
+  "apiName": "nekosbest",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://docs.nekos.best"
+   }
+  ]
+ },
+ {
+  "apiName": "neotimo-dgfip-mirror",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://neotimo.com/annuaire-dgfip"
+   }
+  ]
+ },
+ {
+  "apiName": "nerdulator",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://nerdulator.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "networkcalc",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://networkcalc.com/api/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "neuronto-ard-registry",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://neuronto.com/api-docs"
+   }
+  ]
+ },
+ {
+  "apiName": "newton",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://newton.vercel.app"
+   }
+  ]
+ },
+ {
+  "apiName": "nhl-records-and-stats",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://gitlab.com/dword4/nhlapi"
+   }
+  ]
+ },
+ {
+  "apiName": "nhtsa",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://vpic.nhtsa.dot.gov/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "nobel-prize",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.nobelprize.org/about/developer-zone-2/"
+   }
+  ]
+ },
+ {
+  "apiName": "noctua",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.noctuasky.com/api/v1/swaggerdoc/"
+   }
+  ]
+ },
+ {
+  "apiName": "nominatim",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://nominatim.org/release-docs/latest/api/Overview/"
+   }
+  ]
+ },
+ {
+  "apiName": "non-working-days",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/gadael/icsdb"
+   }
+  ]
+ },
+ {
+  "apiName": "non-working-days-calendar",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://isdayoff.ru"
+   }
+  ]
+ },
+ {
+  "apiName": "noozra",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://noozra.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "nopunt",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.nopunt.com/api/picks.json"
+   }
+  ]
+ },
+ {
+  "apiName": "not-human-search",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://nothumansearch.ai/openapi.yaml"
+   }
+  ]
+ },
+ {
+  "apiName": "npm-registry",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md"
+   }
+  ]
+ },
+ {
+  "apiName": "nppes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://npiregistry.cms.hhs.gov/registry/help-api"
+   }
+  ]
+ },
+ {
+  "apiName": "nuget",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://learn.microsoft.com/en-us/nuget/api/overview"
+   }
+  ]
+ },
+ {
+  "apiName": "ocean-facts",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://oceanfacts.herokuapp.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "oddsbench",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://oddsbench.xyz/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "oddsmagnet",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.oddsmagnet.com"
+   }
+  ]
+ },
+ {
+  "apiName": "onwater",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://onwater.io/"
+   }
+  ]
+ },
+ {
+  "apiName": "onyx-bazaar",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://onyx-actions.onrender.com/bazaar"
+   }
+  ]
+ },
+ {
+  "apiName": "open-brewery-db",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.openbrewerydb.org"
+   }
+  ]
+ },
+ {
+  "apiName": "open-collective",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://docs.opencollective.com/help/developers/api"
+   }
+  ]
+ },
+ {
+  "apiName": "open-data-minneapolis",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://opendata.minneapolismn.gov/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-data-nhs-scotland",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.opendata.nhs.scot"
+   }
+  ]
+ },
+ {
+  "apiName": "open-disease",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://disease.sh/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-food-facts",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://world.openfoodfacts.org/data"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-act",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.data.act.gov.au/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-argentina",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://datos.gob.ar/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-australia",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.data.gov.au/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-austria",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.data.gv.at/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-belgium",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.gov.be/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-cyprus",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.gov.cy/?language=en"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-czech-republic",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.gov.cz/english/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-denmark",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.opendata.dk/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-finland",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.avoindata.fi/en"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-germany",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.govdata.de/daten/-/details/govdata-metadatenkatalog"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-indonesia",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.go.id/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-ireland",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.gov.ie/pages/developers"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-italy",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.dati.gov.it/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-lithuania",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.gov.lt/public/api/1"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-mexico",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.inegi.org.mx/datos/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-mexico-government",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://datos.gob.mx/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-netherlands",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.overheid.nl/en/ondersteuning/data-publiceren/api"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-new-zealand",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.data.govt.nz/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-norway",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.norge.no/dataservices"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-peru",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.datosabiertos.gob.pe/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-poland",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://dane.gov.pl/en"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-portugal",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://dados.gov.pt/en/docapi/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-queensland-government",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.data.qld.gov.au/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-saudi-arabia",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.gov.sa"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-singapore",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.gov.sg/developer"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-slovakia",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.gov.sk/en/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-slovenia",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://podatki.gov.si/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-south-australian-government",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.sa.gov.au/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-spain",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://datos.gob.es/en"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-sweden",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.dataportal.se/en/dataservice/91_29789/api-for-the-statistical-database"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-switzerland",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://handbook.opendata.swiss/de/content/nutzen/api-nutzen.html"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-taiwan",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.gov.tw/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-uk",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.gov.uk/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-usa",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.data.gov/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-victoria-state-government",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.data.vic.gov.au/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-government-west-australia",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.wa.gov.au/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-library",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://openlibrary.org/developers/api"
+   }
+  ]
+ },
+ {
+  "apiName": "open-meteo",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://open-meteo.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-meteo-ensemble",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://open-meteo.com/en/docs/ensemble-api"
+   }
+  ]
+ },
+ {
+  "apiName": "open-meteo-weather",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://open-meteo.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "open-scholarships",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://scholarships.grudged.io"
+   }
+  ]
+ },
+ {
+  "apiName": "open-science-framework",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://developer.osf.io"
+   }
+  ]
+ },
+ {
+  "apiName": "open-topo-data",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.opentopodata.org"
+   }
+  ]
+ },
+ {
+  "apiName": "open-trivia",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://opentdb.com/api_config.php"
+   }
+  ]
+ },
+ {
+  "apiName": "open-vsx",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://open-vsx.org/"
+   }
+  ]
+ },
+ {
+  "apiName": "openafrica",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://africaopendata.org/"
+   }
+  ]
+ },
+ {
+  "apiName": "openalex",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://docs.openalex.org/"
+   }
+  ]
+ },
+ {
+  "apiName": "openf1",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://openf1.org/"
+   }
+  ]
+ },
+ {
+  "apiName": "openligadb",
+  "endpoints": [
+   {
+    "name": "availableLeagues",
+    "method": "GET",
+    "url": "https://api.openligadb.de/getavailableleagues"
+   },
+   {
+    "name": "matchesBySeason",
+    "method": "GET",
+    "url": "https://api.openligadb.de/getmatchdata/{league}/{season}",
+    "params": [
+     "league",
+     "season"
+    ]
+   },
+   {
+    "name": "table",
+    "method": "GET",
+    "url": "https://api.openligadb.de/getbltable/{league}/{season}",
+    "params": [
+     "league",
+     "season"
+    ]
+   }
+  ]
+ },
+ {
+  "apiName": "openmercantil",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://openmercantil.es/api/documentacion"
+   }
+  ]
+ },
+ {
+  "apiName": "opensanctions",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.opensanctions.org/docs/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "opensensemap",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.opensensemap.org/"
+   }
+  ]
+ },
+ {
+  "apiName": "opensky-network",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://opensky-network.org/apidoc/index.html"
+   }
+  ]
+ },
+ {
+  "apiName": "openvan",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://openvan.camp/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "openvisionapi",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://openvisionapi.com"
+   }
+  ]
+ },
+ {
+  "apiName": "openwhyd",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://openwhyd.github.io/openwhyd/API"
+   }
+  ]
+ },
+ {
+  "apiName": "orca-scan",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://orcascan.com/guides/free-barcode-image-api-0e4a4fa6"
+   }
+  ]
+ },
+ {
+  "apiName": "outagedeck",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://outagedeck.com/developers/api"
+   }
+  ]
+ },
+ {
+  "apiName": "owen-wilson-wow",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://owen-wilson-wow-api.herokuapp.com"
+   }
+  ]
+ },
+ {
+  "apiName": "owo",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://owo.vc/api"
+   }
+  ]
+ },
+ {
+  "apiName": "oyyi",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://oyyi.xyz/docs/1.0"
+   }
+  ]
+ },
+ {
+  "apiName": "packagist",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://packagist.org/apidoc"
+   }
+  ]
+ },
+ {
+  "apiName": "padel-snipe",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://padelsnipe.com/fr/world/api"
+   }
+  ]
+ },
+ {
+  "apiName": "pantry",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://getpantry.cloud/"
+   }
+  ]
+ },
+ {
+  "apiName": "paralelo-bo",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://paralelo.bo/api"
+   }
+  ]
+ },
+ {
+  "apiName": "passwordinator",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/fawazsullia/password-generator/"
+   }
+  ]
+ },
+ {
+  "apiName": "patentsview",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://patentsview.org/apis/purpose"
+   }
+  ]
+ },
+ {
+  "apiName": "paycrunch",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://paycrunch.co/api.html"
+   }
+  ]
+ },
+ {
+  "apiName": "personality-fyi",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://personality.fyi/api"
+   }
+  ]
+ },
+ {
+  "apiName": "phishstats",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://phishstats.info/"
+   }
+  ]
+ },
+ {
+  "apiName": "phone-specification",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/azharimm/phone-specs-api"
+   }
+  ]
+ },
+ {
+  "apiName": "phone-specs",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://phone-specs-api-production.up.railway.app/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "php-noise",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://php-noise.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "pick-an-agency",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.pickanagency.com/developers"
+   }
+  ]
+ },
+ {
+  "apiName": "pinball-map",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://pinballmap.com/api/v1/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "pirate-weather",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://pirateweather.net/en/latest/"
+   }
+  ]
+ },
+ {
+  "apiName": "pixel-encounter",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://pixelencounter.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "placebear",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://placebear.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "placedog",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://place.dog"
+   }
+  ]
+ },
+ {
+  "apiName": "placekeanu",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://placekeanu.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "playerdb",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://playerdb.co/"
+   }
+  ]
+ },
+ {
+  "apiName": "pm2-5-open-data-portal",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://pm25.lass-net.org/#apis"
+   }
+  ]
+ },
+ {
+  "apiName": "poetrydb",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/thundercomb/poetrydb#readme"
+   }
+  ]
+ },
+ {
+  "apiName": "pokeapi",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://pokeapi.co"
+   }
+  ]
+ },
+ {
+  "apiName": "pokeapi-graphql",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/mazipan/graphql-pokeapi"
+   }
+  ]
+ },
+ {
+  "apiName": "pokemon-tcg",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://pokemontcg.io"
+   }
+  ]
+ },
+ {
+  "apiName": "pokesprite",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://msikma.github.io/pokesprite/"
+   }
+  ]
+ },
+ {
+  "apiName": "polykal-fees",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://polymarket-kalshi.com/fee-schedule/"
+   }
+  ]
+ },
+ {
+  "apiName": "pontofato",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://pontofato.com/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "portfolio-optimizer",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://portfoliooptimizer.io/"
+   }
+  ]
+ },
+ {
+  "apiName": "positivequotation",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://positivequotation.com/developers/public-domain-quotes-api"
+   }
+  ]
+ },
+ {
+  "apiName": "postalcodes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://postalcodes.info/api"
+   }
+  ]
+ },
+ {
+  "apiName": "postali",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://postali.app/api"
+   }
+  ]
+ },
+ {
+  "apiName": "postcodes-io",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://postcodes.io"
+   }
+  ]
+ },
+ {
+  "apiName": "postman-echo",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.postman-echo.com"
+   }
+  ]
+ },
+ {
+  "apiName": "potterdb",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://docs.potterdb.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "prc-exam-schedule",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.whenisthenextboardexam.com/docs/"
+   }
+  ]
+ },
+ {
+  "apiName": "presend",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://presend.pages.dev/api"
+   }
+  ]
+ },
+ {
+  "apiName": "problemsbyvin",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://problemsbyvin.com/data/"
+   }
+  ]
+ },
+ {
+  "apiName": "programming-quotes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/skolakoda/programming-quotes-api"
+   }
+  ]
+ },
+ {
+  "apiName": "proxyforge",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://proxyforge.dev"
+   }
+  ]
+ },
+ {
+  "apiName": "psychonauts",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://psychonauts-api.netlify.app/"
+   }
+  ]
+ },
+ {
+  "apiName": "publicdatahub",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://publicdatahub.org/api"
+   }
+  ]
+ },
+ {
+  "apiName": "punkapi",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://punkapi.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "purple-air",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www2.purpleair.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "puyo-nexus",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/deltadex7/puyodb-api-deno"
+   }
+  ]
+ },
+ {
+  "apiName": "pvgis",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://joint-research-centre.ec.europa.eu/pvgis-photovoltaic-geographical-information-system/getting-started-pvgis/api-non-interactive-service"
+   }
+  ]
+ },
+ {
+  "apiName": "qr-and-barcode",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://solsigs.com/qrapi/"
+   }
+  ]
+ },
+ {
+  "apiName": "qr-code",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.qrtag.net/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "qr-code-crafter",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://qrcodecrafter.com/qr-code-api"
+   }
+  ]
+ },
+ {
+  "apiName": "qrcode-monkey",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.qrcode-monkey.com/qr-code-api-with-logo/"
+   }
+  ]
+ },
+ {
+  "apiName": "quarantine",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://quarantine.country/coronavirus/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "queimadas-inpe",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://queimadas.dgi.inpe.br/queimadas/dados-abertos/"
+   }
+  ]
+ },
+ {
+  "apiName": "quickchart",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://quickchart.io/"
+   }
+  ]
+ },
+ {
+  "apiName": "quickmocker",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://quickmocker.com"
+   }
+  ]
+ },
+ {
+  "apiName": "quotable",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/lukePeavey/quotable"
+   }
+  ]
+ },
+ {
+  "apiName": "quotable-quotes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/lukePeavey/quotable"
+   }
+  ]
+ },
+ {
+  "apiName": "quote-garden",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://pprathameshmore.github.io/QuoteGarden/"
+   }
+  ]
+ },
+ {
+  "apiName": "quoteclear",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://quoteclear.web.app/"
+   }
+  ]
+ },
+ {
+  "apiName": "quotes-on-design",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://quotesondesign.com/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "quran",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://quran.api-docs.io/"
+   }
+  ]
+ },
+ {
+  "apiName": "quran-api",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/fawazahmed0/quran-api#readme"
+   }
+  ]
+ },
+ {
+  "apiName": "quran-cloud",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://alquran.cloud/api"
+   }
+  ]
+ },
+ {
+  "apiName": "racinghub",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://racinghub.net/api/v1/docs#/"
+   }
+  ]
+ },
+ {
+  "apiName": "racion",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://racion.app/developers"
+   }
+  ]
+ },
+ {
+  "apiName": "radar-cnpj",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://radar-cnpj.com/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "radio-browser",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.radio-browser.info/"
+   }
+  ]
+ },
+ {
+  "apiName": "raider",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://raider.io/api"
+   }
+  ]
+ },
+ {
+  "apiName": "railworks",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://railworks.paddez.com/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "rainviewer",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.rainviewer.com/api.html"
+   }
+  ]
+ },
+ {
+  "apiName": "random-data",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://random-data-api.com"
+   }
+  ]
+ },
+ {
+  "apiName": "random-lexicon",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://randomlexicon.com/api-reference"
+   }
+  ]
+ },
+ {
+  "apiName": "random-useless-facts",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://uselessfacts.jsph.pl/"
+   }
+  ]
+ },
+ {
+  "apiName": "randomdog",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://random.dog/woof.json"
+   }
+  ]
+ },
+ {
+  "apiName": "randomduck",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://random-d.uk/api"
+   }
+  ]
+ },
+ {
+  "apiName": "randomfox",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://randomfox.ca/floof/"
+   }
+  ]
+ },
+ {
+  "apiName": "randomuser",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://randomuser.me"
+   }
+  ]
+ },
+ {
+  "apiName": "razorpay-ifsc",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://razorpay.com/docs/"
+   }
+  ]
+ },
+ {
+  "apiName": "rblxdb",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://rblxdb.com/developers"
+   }
+  ]
+ },
+ {
+  "apiName": "rcsb-pdb",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.rcsb.org/"
+   }
+  ]
+ },
+ {
+  "apiName": "readme-typing-svg",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/DenverCoder1/readme-typing-svg"
+   }
+  ]
+ },
+ {
+  "apiName": "refuge-restrooms",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.refugerestrooms.org/api/docs/#!/restrooms"
+   }
+  ]
+ },
+ {
+  "apiName": "remote-calc",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/elizabethadegbaju/remotecalc"
+   }
+  ]
+ },
+ {
+  "apiName": "remoteok",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://remoteok.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "replynodes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://replynodes.com/markdown-api/"
+   }
+  ]
+ },
+ {
+  "apiName": "represent-by-open-north",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://represent.opennorth.ca/"
+   }
+  ]
+ },
+ {
+  "apiName": "reqres",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://reqres.in/"
+   }
+  ]
+ },
+ {
+  "apiName": "rescuegroups",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home"
+   }
+  ]
+ },
+ {
+  "apiName": "rest-countries",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://restcountries.com"
+   }
+  ]
+ },
+ {
+  "apiName": "restful-api",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://restful-api.dev"
+   }
+  ]
+ },
+ {
+  "apiName": "rick-and-morty",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://rickandmortyapi.com"
+   }
+  ]
+ },
+ {
+  "apiName": "right-to-disconnect",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://righttodisconnect.jdries.nl/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "robohash",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://robohash.org/"
+   }
+  ]
+ },
+ {
+  "apiName": "ron-swanson-quotes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api"
+   }
+  ]
+ },
+ {
+  "apiName": "rps-101",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://rps101.pythonanywhere.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "rss-feed-to-json",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://rss-to-json-serverless-api.vercel.app"
+   }
+  ]
+ },
+ {
+  "apiName": "rubygems",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://guides.rubygems.org/rubygems-org-api/"
+   }
+  ]
+ },
+ {
+  "apiName": "runescape",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://runescape.wiki/w/Application_programming_interface"
+   }
+  ]
+ },
+ {
+  "apiName": "runyankole-bible",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://runyankole-bible-api.vercel.app"
+   }
+  ]
+ },
+ {
+  "apiName": "russian-calendar",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/egno/work-calendar"
+   }
+  ]
+ },
+ {
+  "apiName": "rustybeer",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://rustybeer.herokuapp.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "rwanda-locations",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://rapidapi.com/victorkarangwa4/api/rwanda"
+   }
+  ]
+ },
+ {
+  "apiName": "sakura-cardcaptor",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/JessVel/sakura-card-captor-api"
+   }
+  ]
+ },
+ {
+  "apiName": "sampuli",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://sampuli.site/api"
+   }
+  ]
+ },
+ {
+  "apiName": "scanmalware",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://scanmalware.com"
+   }
+  ]
+ },
+ {
+  "apiName": "screenshot-studio",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.screenshot-studio.com/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "screenshotlayer",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://screenshotlayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers"
+   }
+  ]
+ },
+ {
+  "apiName": "scryfall",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://scryfall.com/docs/api"
+   }
+  ]
+ },
+ {
+  "apiName": "sec-edgar-data",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.sec.gov/edgar/sec-api-documentation"
+   }
+  ]
+ },
+ {
+  "apiName": "seedfinder",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://mineseedfinder.vercel.app/seedfinder"
+   }
+  ]
+ },
+ {
+  "apiName": "semantic-scholar",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.semanticscholar.org/"
+   }
+  ]
+ },
+ {
+  "apiName": "serialif-color",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://color.serialif.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "share",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://share.osf.io/api/v2/"
+   }
+  ]
+ },
+ {
+  "apiName": "shields",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://shields.io/"
+   }
+  ]
+ },
+ {
+  "apiName": "short-link",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/FayasNoushad/Short-Link-API"
+   }
+  ]
+ },
+ {
+  "apiName": "shrtcode",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://shrtco.de/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "slashyear",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://slashyear.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "slf",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/slftool/slftool.github.io/blob/master/API.md"
+   }
+  ]
+ },
+ {
+  "apiName": "smklog",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://smklog.com/openapi.json"
+   }
+  ]
+ },
+ {
+  "apiName": "solana-json-rpc",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://docs.solana.com/developing/clients/jsonrpc-api"
+   }
+  ]
+ },
+ {
+  "apiName": "solar-system-opendata",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.le-systeme-solaire.net"
+   }
+  ]
+ },
+ {
+  "apiName": "solematica",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.solematica.it/sviluppatori"
+   }
+  ]
+ },
+ {
+  "apiName": "sololuck",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://sololuck.io/api"
+   }
+  ]
+ },
+ {
+  "apiName": "sonar",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/Cgboal/SonarSearch"
+   }
+  ]
+ },
+ {
+  "apiName": "songsterr",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.songsterr.com/a/wa/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "spaceflight-news",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://spaceflightnewsapi.net"
+   }
+  ]
+ },
+ {
+  "apiName": "spacex",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/r-spacex/SpaceX-API"
+   }
+  ]
+ },
+ {
+  "apiName": "spacex-science-and-math",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.spacex.land/graphql/"
+   }
+  ]
+ },
+ {
+  "apiName": "spanish-random-names",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://random-names-api.herokuapp.com/public"
+   }
+  ]
+ },
+ {
+  "apiName": "spanish-random-words",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://palabras-aleatorias-public-api.herokuapp.com"
+   }
+  ]
+ },
+ {
+  "apiName": "spatial-india",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.spatialindia.com"
+   }
+  ]
+ },
+ {
+  "apiName": "sport-list-and-data",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://developers.decathlon.com/products/sports"
+   }
+  ]
+ },
+ {
+  "apiName": "sport-places",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://developers.decathlon.com/products/sport-places"
+   }
+  ]
+ },
+ {
+  "apiName": "sportscore",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://sportscore.com/developers/"
+   }
+  ]
+ },
+ {
+  "apiName": "squiggle",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.squiggle.com.au"
+   }
+  ]
+ },
+ {
+  "apiName": "ssl-labs",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/ssllabs/ssllabs-scan/blob/master/ssllabs-api-docs-v3.md"
+   }
+  ]
+ },
+ {
+  "apiName": "statically",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://statically.io/"
+   }
+  ]
+ },
+ {
+  "apiName": "statistics-of-the-world",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://statisticsoftheworld.com/api-docs"
+   }
+  ]
+ },
+ {
+  "apiName": "statlyte",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://statlyte.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "statorigin",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://statorigin.org/docs/api"
+   }
+  ]
+ },
+ {
+  "apiName": "steam",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/Revadike/InternalSteamWebAPI/wiki"
+   }
+  ]
+ },
+ {
+  "apiName": "steamgpt",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://steamgpt.net"
+   }
+  ]
+ },
+ {
+  "apiName": "stoicism-quote",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/tlcheah2/stoic-quote-lambda-public-api"
+   }
+  ]
+ },
+ {
+  "apiName": "strait-of-hormuz-ship-monitor",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://hormuz.data-tracking.net/llms.txt"
+   }
+  ]
+ },
+ {
+  "apiName": "stranger-things-quotes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/shadowoff09/strangerthings-quotes"
+   }
+  ]
+ },
+ {
+  "apiName": "stream",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.stream.cz/graphiql"
+   }
+  ]
+ },
+ {
+  "apiName": "stromberg-quotes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.stromberg-api.de/"
+   }
+  ]
+ },
+ {
+  "apiName": "studio-ghibli",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://ghibliapi.vercel.app"
+   }
+  ]
+ },
+ {
+  "apiName": "sudoku100",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.sudoku100.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "sunrise-and-sunset",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://sunrise-sunset.org/api"
+   }
+  ]
+ },
+ {
+  "apiName": "swapi",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://swapi.dev/"
+   }
+  ]
+ },
+ {
+  "apiName": "swapi-graphql",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://graphql.org/swapi-graphql"
+   }
+  ]
+ },
+ {
+  "apiName": "swapi-video",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.swapi.tech"
+   }
+  ]
+ },
+ {
+  "apiName": "swarmmemo",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://swarmmemo.com/protocol.md"
+   }
+  ]
+ },
+ {
+  "apiName": "tallytopia",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://tallytopia.com/api-docs"
+   }
+  ]
+ },
+ {
+  "apiName": "tcgdex",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.tcgdex.net/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "techrole-index",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://techrole.ru/open-data-daily"
+   }
+  ]
+ },
+ {
+  "apiName": "techy",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://techy-api.vercel.app/"
+   }
+  ]
+ },
+ {
+  "apiName": "teleport",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://developers.teleport.org/"
+   }
+  ]
+ },
+ {
+  "apiName": "tenders-in-hungary",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://tenders.guru/hu/api"
+   }
+  ]
+ },
+ {
+  "apiName": "tenders-in-poland",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://tenders.guru/pl/api"
+   }
+  ]
+ },
+ {
+  "apiName": "tenders-in-romania",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://tenders.guru/ro/api"
+   }
+  ]
+ },
+ {
+  "apiName": "tenders-in-spain",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://tenders.guru/es/api"
+   }
+  ]
+ },
+ {
+  "apiName": "tenders-in-ukraine",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://tenders.guru/ua/api"
+   }
+  ]
+ },
+ {
+  "apiName": "tensorfeed",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://tensorfeed.ai/developers"
+   }
+  ]
+ },
+ {
+  "apiName": "terrace-weather",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://terrace.javiermateo.dev/swagger-ui.html"
+   }
+  ]
+ },
+ {
+  "apiName": "tetr-io",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://tetr.io/about/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "the-calendar",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://the-calendar.net/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "the-color-api",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.thecolorapi.com"
+   }
+  ]
+ },
+ {
+  "apiName": "the-null-pointer",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://0x0.st"
+   }
+  ]
+ },
+ {
+  "apiName": "the-report-of-the-week",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/andyklimczak/TheReportOfTheWeek-API"
+   }
+  ]
+ },
+ {
+  "apiName": "thesportsdb",
+  "endpoints": [
+   {
+    "name": "searchTeams",
+    "method": "GET",
+    "url": "https://www.thesportsdb.com/api/v1/json/3/searchteams.php",
+    "params": [
+     "t"
+    ]
+   },
+   {
+    "name": "searchPlayers",
+    "method": "GET",
+    "url": "https://www.thesportsdb.com/api/v1/json/3/searchplayers.php",
+    "params": [
+     "p"
+    ]
+   },
+   {
+    "name": "nextEvents",
+    "method": "GET",
+    "url": "https://www.thesportsdb.com/api/v1/json/3/eventsnextleague.php",
+    "params": [
+     "id"
+    ]
+   },
+   {
+    "name": "pastEvents",
+    "method": "GET",
+    "url": "https://www.thesportsdb.com/api/v1/json/3/eventspastleague.php",
+    "params": [
+     "id"
+    ]
+   },
+   {
+    "name": "table",
+    "method": "GET",
+    "url": "https://www.thesportsdb.com/api/v1/json/3/lookuptable.php",
+    "params": [
+     "l",
+     "s"
+    ]
+   }
+  ]
+ },
+ {
+  "apiName": "they-said-so-quotes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://theysaidso.com/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "thirukkural",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api-thirukkural.web.app/"
+   }
+  ]
+ },
+ {
+  "apiName": "this-person-does-not-exist",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://thispersondoesnotexist.com"
+   }
+  ]
+ },
+ {
+  "apiName": "thronesapi",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://thronesapi.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "thunder-client",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.thunderclient.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "tilth",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.tilth.uk/data"
+   }
+  ]
+ },
+ {
+  "apiName": "times-adder",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/FranP-code/API-Times-Adder"
+   }
+  ]
+ },
+ {
+  "apiName": "timezone-worldtime",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.timezone.io/docs/worldtimeapi"
+   }
+  ]
+ },
+ {
+  "apiName": "tinymind-agent-tools",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://tinymind.eu/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "tle",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://tle.ivanstanojevic.me/#/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "tollmint",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.tollmint.com"
+   }
+  ]
+ },
+ {
+  "apiName": "toolcarton",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://testimonialapi.toolcarton.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "top-5-stocks",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://top5stocks.netlify.app/developers"
+   }
+  ]
+ },
+ {
+  "apiName": "totalshiftleft-sandbox",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://demo.totalshiftleft.ai/"
+   }
+  ]
+ },
+ {
+  "apiName": "tourneyradar",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://tourneyradar-api.vercel.app"
+   }
+  ]
+ },
+ {
+  "apiName": "trace-moe",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://soruly.github.io/trace.moe-api/#/"
+   }
+  ]
+ },
+ {
+  "apiName": "tradedatahub",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.tradedatahub.net"
+   }
+  ]
+ },
+ {
+  "apiName": "traitify",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://app.traitify.com/developer"
+   }
+  ]
+ },
+ {
+  "apiName": "transitland",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.transit.land/documentation/datastore/api-endpoints.html"
+   }
+  ]
+ },
+ {
+  "apiName": "transparentcars",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://transparent.pt/en/api"
+   }
+  ]
+ },
+ {
+  "apiName": "transport-for-auckland-new-zealand",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://dev-portal.at.govt.nz/"
+   }
+  ]
+ },
+ {
+  "apiName": "transport-for-belgium",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://docs.irail.be/"
+   }
+  ]
+ },
+ {
+  "apiName": "transport-for-berlin-germany",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md"
+   }
+  ]
+ },
+ {
+  "apiName": "transport-for-budapest-hungary",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://bkkfutar.docs.apiary.io"
+   }
+  ]
+ },
+ {
+  "apiName": "transport-for-czech-republic",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.chaps.cz/eng/products/idos-internet"
+   }
+  ]
+ },
+ {
+  "apiName": "transport-for-finland",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://digitransit.fi/en/developers/"
+   }
+  ]
+ },
+ {
+  "apiName": "transport-for-hessen-germany",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://opendata.rmv.de/site/start.html"
+   }
+  ]
+ },
+ {
+  "apiName": "transport-for-los-angeles-us",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://developer.metro.net/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "transport-for-norway",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://developer.entur.org/"
+   }
+  ]
+ },
+ {
+  "apiName": "transport-for-spain",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.renfe.com/api/1/util/snippet/api_info.html?resource_id=a2368cff-1562-4dde-8466-9635ea3a572a"
+   }
+  ]
+ },
+ {
+  "apiName": "transport-for-switzerland",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://transport.opendata.ch/"
+   }
+  ]
+ },
+ {
+  "apiName": "transport-for-the-netherlands",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/skywave/KV78Turbo-OVAPI/wiki"
+   }
+  ]
+ },
+ {
+  "apiName": "transport-for-toronto-canada",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://myttc.ca/developers"
+   }
+  ]
+ },
+ {
+  "apiName": "transport-rest",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://transport.rest"
+   }
+  ]
+ },
+ {
+  "apiName": "tronald-dump",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.tronalddump.io/"
+   }
+  ]
+ },
+ {
+  "apiName": "twzrd-agent-intel",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://intel.twzrd.xyz"
+   }
+  ]
+ },
+ {
+  "apiName": "uk-bank-holidays",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.gov.uk/bank-holidays.json"
+   }
+  ]
+ },
+ {
+  "apiName": "uk-carbon-intensity",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0"
+   }
+  ]
+ },
+ {
+  "apiName": "uk-legislation-changes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://uk-legal-changes.pages.dev/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "uk-police",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.police.uk/docs/"
+   }
+  ]
+ },
+ {
+  "apiName": "umea-open-data",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://opendata.umea.se/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "unblock-master-ip",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.unblockmaster.com/free-ip-api/"
+   }
+  ]
+ },
+ {
+  "apiName": "universalis",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://universalis.app/docs/index.html"
+   }
+  ]
+ },
+ {
+  "apiName": "universities-list",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/Hipo/university-domains-list"
+   }
+  ]
+ },
+ {
+  "apiName": "university-of-oslo",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://data.uio.no/"
+   }
+  ]
+ },
+ {
+  "apiName": "unpaywall",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://unpaywall.org/products/api"
+   }
+  ]
+ },
+ {
+  "apiName": "urantia-papers",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://urantia.dev"
+   }
+  ]
+ },
+ {
+  "apiName": "urgences-quebec",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://sante.handled.tools/api"
+   }
+  ]
+ },
+ {
+  "apiName": "urlhaus",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://urlhaus-api.abuse.ch/"
+   }
+  ]
+ },
+ {
+  "apiName": "urlhaus-security",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://urlhaus.abuse.ch/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "us-federal-contracts-and-grants",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://government-data-api.onrender.com/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "us-mortgage-calculator",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.usmortgagecalc.com/developers/api"
+   }
+  ]
+ },
+ {
+  "apiName": "us-presidential-election-data-by-togatech",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://uselection.togatech.org/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "us-weather",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.weather.gov/documentation/services-web-api"
+   }
+  ]
+ },
+ {
+  "apiName": "usaspending-gov",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.usaspending.gov/"
+   }
+  ]
+ },
+ {
+  "apiName": "usgs-earthquake-hazards-program",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/"
+   }
+  ]
+ },
+ {
+  "apiName": "usgs-water-services",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://waterservices.usgs.gov/"
+   }
+  ]
+ },
+ {
+  "apiName": "uspto",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.uspto.gov/learning-and-resources/open-data-and-mobility"
+   }
+  ]
+ },
+ {
+  "apiName": "uuid-generator",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.uuidtools.com/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "vadivelu-http-codes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://vadivelu.anoram.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "valorant-non-official",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://valorant-api.com"
+   }
+  ]
+ },
+ {
+  "apiName": "vatcomply-com",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.vatcomply.com/documentation"
+   }
+  ]
+ },
+ {
+  "apiName": "vector-express-v2-0",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://vector.express"
+   }
+  ]
+ },
+ {
+  "apiName": "velib-metropolis-paris-france",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole"
+   }
+  ]
+ },
+ {
+  "apiName": "verome",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/Kirazul/Verome-API"
+   }
+  ]
+ },
+ {
+  "apiName": "vett",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://wimberly.solutions/api/free-sanctions-check/"
+   }
+  ]
+ },
+ {
+  "apiName": "viacep",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://viacep.com.br"
+   }
+  ]
+ },
+ {
+  "apiName": "video-to-markdown",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://video-to-markdown.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "virushee",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.virushee.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "voidly",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://voidly.ai/api-docs"
+   }
+  ]
+ },
+ {
+  "apiName": "vornamencheck",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://vornamencheck.de/#api"
+   }
+  ]
+ },
+ {
+  "apiName": "votepredictor",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://votepredictor.com/developers"
+   }
+  ]
+ },
+ {
+  "apiName": "voxodds",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://voxodds.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "waifu-im",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://waifu.im/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "waifu-pics",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://waifu.pics/docs"
+   }
+  ]
+ },
+ {
+  "apiName": "wakatime",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://wakatime.com/developers"
+   }
+  ]
+ },
+ {
+  "apiName": "waldrand-avatar",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://avatar.waldrand.dev"
+   }
+  ]
+ },
+ {
+  "apiName": "wallstreetbets",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://dashboard.nbshare.io/apps/reddit/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "walltime",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://walltime.info/api.html"
+   }
+  ]
+ },
+ {
+  "apiName": "wandbox",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/melpon/wandbox/blob/master/kennel2/API.rst"
+   }
+  ]
+ },
+ {
+  "apiName": "wander-atlas",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://wanderatlasguides.com/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "warface-non-official",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.wfstats.cf"
+   }
+  ]
+ },
+ {
+  "apiName": "warnely",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://warnely.com/developers"
+   }
+  ]
+ },
+ {
+  "apiName": "wattfigure",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.wattfigure.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "weather-api",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/robertoduessmann/weather-api"
+   }
+  ]
+ },
+ {
+  "apiName": "weathertotals",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://weathertotals.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "web-series-quotes-generator",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/yogeshwaran01/web-series-quotes"
+   }
+  ]
+ },
+ {
+  "apiName": "website-carbon",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.websitecarbon.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "whatpulse",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://developer.whatpulse.org/#web-api"
+   }
+  ]
+ },
+ {
+  "apiName": "wheelwise",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://cars.limoja.ai/api/search?q=BMW&limit=1"
+   }
+  ]
+ },
+ {
+  "apiName": "when-is-next-mcu-film",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md"
+   }
+  ]
+ },
+ {
+  "apiName": "whiskyhunter",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://whiskyhunter.net/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "wikipedia",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://www.mediawiki.org/wiki/API:Main_page"
+   }
+  ]
+ },
+ {
+  "apiName": "wiktionary",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://en.wiktionary.org/w/api.php"
+   }
+  ]
+ },
+ {
+  "apiName": "wizard-world",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://wizard-world-api.herokuapp.com/swagger/index.html"
+   }
+  ]
+ },
+ {
+  "apiName": "wolne-lektury",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://wolnelektury.pl/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "wordsohard",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://wordsohard.com/api"
+   }
+  ]
+ },
+ {
+  "apiName": "world-bank",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://datahelpdesk.worldbank.org/knowledgebase/topics/125589"
+   }
+  ]
+ },
+ {
+  "apiName": "world-time-and-weather",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://worldtimeweather.com/api.html"
+   }
+  ]
+ },
+ {
+  "apiName": "worth-the-rip",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://worththerip.com/api/"
+   }
+  ]
+ },
+ {
+  "apiName": "wttr-in",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://wttr.in/:help"
+   }
+  ]
+ },
+ {
+  "apiName": "xeno-canto",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://xeno-canto.org/explore/api"
+   }
+  ]
+ },
+ {
+  "apiName": "xkcd",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://xkcd.com/json.html"
+   }
+  ]
+ },
+ {
+  "apiName": "xlsx-inspector",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://api.lifestep.io"
+   }
+  ]
+ },
+ {
+  "apiName": "xmath",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://x-math.herokuapp.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "xoomar",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://xoomar.com/markets/api"
+   }
+  ]
+ },
+ {
+  "apiName": "yes-no",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://yesno.wtf/api"
+   }
+  ]
+ },
+ {
+  "apiName": "yo-momma-jokes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://github.com/beanboi7/yomomma-apiv2"
+   }
+  ]
+ },
+ {
+  "apiName": "yu-gi-oh",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://db.ygoprodeck.com/api-guide/"
+   }
+  ]
+ },
+ {
+  "apiName": "zelothorn",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://zelothorn.com/developers"
+   }
+  ]
+ },
+ {
+  "apiName": "zen-quotes",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://zenquotes.io/"
+   }
+  ]
+ },
+ {
+  "apiName": "zennet",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://zennet.cloud"
+   }
+  ]
+ },
+ {
+  "apiName": "ziptastic",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://ziptasticapi.com/"
+   }
+  ]
+ },
+ {
+  "apiName": "zmok",
+  "endpoints": [
+   {
+    "name": "request",
+    "method": "GET",
+    "url": "https://zmok.io"
+   }
+  ]
+ }
+]
